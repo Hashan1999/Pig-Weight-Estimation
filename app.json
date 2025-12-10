@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Pig Weight Camera",
+    "slug": "pig-weight-camera",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "platforms": ["ios", "android"],
+    "sdkVersion": "51.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
