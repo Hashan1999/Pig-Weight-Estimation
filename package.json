@@ -2,6 +2,7 @@
   "name": "pig-weight-estimation-camera",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "main": "App.js",
   "scripts": {
     "start": "expo start",
     "android": "expo run:android",
@@ -11,6 +12,7 @@
     "expo": "~51.0.0",
     "expo-camera": "~15.0.14",
     "expo-media-library": "~16.0.5",
+    "expo-media-library": "~16.0.6",
     "react": "18.2.0",
     "react-native": "0.74.3"
   }
